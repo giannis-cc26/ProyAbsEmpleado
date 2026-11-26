@@ -14,6 +14,7 @@ public class Gestion
 {
     private Empleado[] arreglo;
     private int puntero;
+    // Espacio de prueba para github
 
     public Gestion() 
     {
